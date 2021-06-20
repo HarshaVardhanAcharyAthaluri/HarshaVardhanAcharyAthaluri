@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 
 
 **Languages and Tools:**  
-<code><img height="40" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/java.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/java.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/spring.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/springboot.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/springsecurity.png"></code>
 
