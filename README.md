@@ -1,4 +1,5 @@
-### Hi there 👋, 
+### Hi there 👋,
+<h1 align="center">I'm HarshaVardhan</h1>
 
 <!--
 **HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
