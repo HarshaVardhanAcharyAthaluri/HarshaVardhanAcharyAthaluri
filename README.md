@@ -1,4 +1,5 @@
-### Hi there 👋, 
+### Hi there 👋
+<h1 align="center">I'm HarshaVardhan</h1>
 
 <!--
 **HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=HarshaVardhanAcharyAthaluri&show_icons=true&count_private=true)
 
 
-**Languages and Tools:**  
+## Languages and Tools:  
 <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/java.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/spring.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/springboot.png"></code>
