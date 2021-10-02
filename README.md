@@ -1,5 +1,9 @@
-### Hi there 👋
-<h1 align="center">I'm HarshaVardhan</h1>
+### Hello There 👋
+
+<h1 align="center">
+  <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/avatars/kungfupanda.png"></code>
+  I'm HarshaVardhan
+</h1>
 
 <!--
 **HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
