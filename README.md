@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/avatars/kungfupanda.png"></code>
-  I'm HarshaVardhan
+  I'm HarshaVardhan, you can call Harsha ......😄
 </h1>
 
 <!--
