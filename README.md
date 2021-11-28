@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about JAVA, J2EE, Spring, Spring Boot, Spring Security, Hibernate, Angular...
 - 📫 How to reach me: athaluri.harsha@gmail.com ...
 
-## Languages, Tools, Skill:  
+## Languages, Tools & Skill:  
 <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/java.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/spring.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/springboot.png"></code>
