@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about JAVA, J2EE, Spring, Spring Boot, Spring Security, Hibernate, Angular...
 - 📫 How to reach me: athaluri.harsha@gmail.com ...
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=HarshaVardhanAcharyAthaluri&show_icons=true&count_private=true)
-
-
-## Languages and Tools:  
+## Languages, Tools, Skill:  
 <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/java.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/spring.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/springboot.png"></code>
@@ -30,3 +27,8 @@ Here are some ideas to get you started:
 <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/ansible.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/sql.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/hibernate.png"></code>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=HarshaVardhanAcharyAthaluri&show_icons=true&count_private=true)
+
+
+
