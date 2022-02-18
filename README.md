@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/springboot.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/springsecurity.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/angular.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/nodejs.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/docker.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/ansible.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/sql.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/languageicons/hibernate.png"></code>
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=HarshaVardhanAcharyAthaluri&show_icons=true&count_private=true)
 
