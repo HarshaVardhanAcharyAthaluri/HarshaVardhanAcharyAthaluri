@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/avatars/kungfupanda.png"></code>
-  ....... I'm HarshaVardhan, You can call me Harsha ......😄
+  ....... I'm HarshaVardhan, Java/J2EE Fullstack Developer with a strong stance against senseless algorithm and data structure grinding ......😄
 </h1>
 
 <!--
