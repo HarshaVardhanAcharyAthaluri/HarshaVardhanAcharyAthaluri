@@ -2,7 +2,7 @@
 
 <h2 align="center">
   <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/avatars/kungfupanda.png"></code>
-  I'm HarshaVardhan, Java/J2EE Fullstack Developer <br/>with a strong stance against senseless algorithm and data structure grinding. <div>😄</div>
+  I'm HarshaVardhan, Java/J2EE Fullstack Developer <br/>with a strong stance against senseless Algorithm and DataStructure grinding. <div>😄</div>
 </h2>
 
 <!--
