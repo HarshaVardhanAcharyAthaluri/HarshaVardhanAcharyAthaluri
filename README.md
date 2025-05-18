@@ -1,8 +1,8 @@
 <h2 align="center">
   <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/avatars/kungfupanda.png"></code>
-  Hello There 👋
+  <em>Hello There 👋</em>
   <br/>
-  Iam HarshaVardhan, Java/J2EE Fullstack Developer<br/>with a strong stance against senseless Algorithm and DataStructure grinding
+  <em>Iam HarshaVardhan, Java/J2EE Fullstack Developer</em><br/>
     <div>😄</div>
 </h2>
 
