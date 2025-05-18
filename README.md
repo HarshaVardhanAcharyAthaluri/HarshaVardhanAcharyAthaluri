@@ -1,7 +1,7 @@
-### Hello There 👋
-
 <h2 align="center">
   <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/avatars/kungfupanda.png"></code>
+  Hello There 👋
+  <br/>
   $${\color{teal}Iam\space HarshaVardhan,\space Java/J2EE\space Fullstack\space Developer \space }$$<br/>$${\color{teal}with\space a\space strong\space stance\space against\space senseless\space Algorithm\space and\space DataStructure\space grinding. \space }$$<div>😄</div>
 </h2>
 
