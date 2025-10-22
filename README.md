@@ -1,9 +1,10 @@
 <h2 align="center">
   <code><img height="70" src="https://raw.githubusercontent.com/HarshaVardhanAcharyAthaluri/HarshaVardhanAcharyAthaluri/master/avatars/kungfupanda.png"></code>
-  <em>Hello There 👋</em>
+  <div></div>
+  <em>Hello There</em>
   <br/>
   <em>Iam HarshaVardhan, Java/J2EE Fullstack Developer&Consultant</em><br/>
-    <div>😄</div>
+   
 </h2>
 
 <!--
